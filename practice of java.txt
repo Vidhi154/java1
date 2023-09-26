@@ -1,0 +1,20 @@
+get 
+reference varible = v 
+class i ya insance object = i
+v.i inita;ise = v.i =
+object = instant varible opyiobnal= modifer
+class varible = modifier
+object.varible=
+
+
+
+
+public class gnome{
+public int name;
+}
+psvm
+{
+gnome g = new gnome();
+g.name
+
+}
